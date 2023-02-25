@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MyMeteo</string>
+    <string name="lista">Lista</string>
+    <string name="grafici">Grafici</string>
+    <string name="esci">Esci</string>
+    <string name="torna">Torna</string>
+    <string-array name="listaCitta">
+        <item>Alessandria</item>
+        <item>Ancona</item>
+        <item>Bergamo</item>
+        <item>Bologna</item>
+        <item>Budapest</item>
+        <item>Cagliari</item>
+        <item>Catania</item>
+        <item>Como</item>
+        <item>Cuneo</item>
+        <item>Firenze</item>
+        <item>Genova</item>
+        <item>Gorizia</item>
+        <item>Helsinki</item>
+        <item>Londra</item>
+        <item>Milano</item>
+        <item>Mosca</item>
+        <item>Napoli</item>
+        <item>Palermo</item>
+        <item>Pescara</item>
+        <item>Reggio Calabria</item>
+        <item>Roma</item>
+        <item>Sassari</item>
+        <item>Stoccolma</item>
+        <item>Torino</item>
+        <item>Toronto</item>
+        <item>Trento</item>
+        <item>Udine</item>
+        <item>Venezia</item>
+        <item>Viterbo</item>
+    </string-array>
+</resources>
